@@ -1,4 +1,8 @@
-- 👋 Moi oon nimeltä Gen501(tronkkeli)
-- Joskus tulee tehtyä vapaa ajalla kaiken laista ja täältä löytyy pieni osa siitä.
-- Lähinnä nää on tarkoitettu pienille määriä ihmisiä mut joskus saattaa jotain hyödyllistäkin pompata näkyville.
-  
+Kun avaat apin ensimmäistä kertaa appi kysyy salasanaa
+Se on kuljetuliike Taipaleen kolmi numeroinen numero.
+
+Sitä appi kysyy vain kerran ja se tallentuu puhelimeen
+Ettei sitä tarvitse kysyä uudelleen.
+Edes apin päivittämisen jälkeen sitä ei tarvitse
+Kirjoittaa uudelleen.
+
